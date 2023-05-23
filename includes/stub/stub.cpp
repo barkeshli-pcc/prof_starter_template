@@ -1,7 +1,11 @@
 #include <iostream>
 #include <iomanip>
 #include "stub.h"
+using namespace std;
 
-bool stub(){
+
+bool stub()
+{
+  cout << "Hello world!" << endl;
   return true;
 }
