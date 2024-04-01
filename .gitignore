@@ -82,3 +82,6 @@ googletest/
 .vs
 out/
 build/other/
+
+#CLION:
+cmake-build-debug/
